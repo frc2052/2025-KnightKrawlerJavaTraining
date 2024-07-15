@@ -1,0 +1,1 @@
+Check each return in the checkPrime method. Are they returning what they should?

@@ -1,0 +1,2 @@
+One of bugs in this code is something with the 'for' loop. 
+What is wrong with line 5 when we make the array?
